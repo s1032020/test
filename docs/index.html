@@ -1,9 +1,6 @@
 ページ動いてるよ
 <span id="view_clock"></span>
 
-
-<span id="view_clock"></span>
-
 <script type="text/javascript">
 timerID = setInterval('clock()',500); //0.5秒毎にclock()を実行
 
